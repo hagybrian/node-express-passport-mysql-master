@@ -2,7 +2,8 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "lifeforce",
+    "database": "my_schema",
+    "users_table": "users",
     "host": "localhost",
     "dialect": "mysql"
   },
